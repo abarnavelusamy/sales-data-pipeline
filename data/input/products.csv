@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,Price
+P001,Laptop,Electronics,800
+P002,Mouse,Electronics,25
+P003,Keyboard,Electronics,45
+P004,Monitor,Electronics,250
+P005,Chair,Furniture,150
+P006,Desk,Furniture,300
+P007,Headphones,Electronics,120
+P008,Printer,Electronics,180
+P009,Notebook,Stationery,5
+P010,Pen,Stationery,2
+P011,Backpack,Accessories,60
+P012,Tablet,Electronics,500
+P013,Phone,Electronics,900
+P014,Camera,Electronics,650
+P015,Speaker,Electronics,130

@@ -1,0 +1,16 @@
+OrderID,CustomerID,ProductID,Quantity,OrderDate,CustomerName,Email,City,State,JoinDate,ProductName,Category,Price,TotalAmount
+O001,C001,P001,1,1/10/2024,JOHN SMITH,john@gmail.com,New York,NY,1/10/2023,Laptop,Electronics,800,800
+O002,C002,P002,2,1/11/2024,ALICE JOHNSON,alice@gmail.com,Chicago,IL,2/15/2023,Mouse,Electronics,25,50
+O003,C003,P004,1,1/12/2024,BOB WILLIAMS,bob@gmail.com,Dallas,TX,3/20/2023,Monitor,Electronics,250,250
+O004,C004,P005,3,1/13/2024,EMMA BROWN,emma@gmail.com,Seattle,WA,4/18/2023,Chair,Furniture,150,450
+O005,C005,P003,2,1/14/2024,DAVID MILLER,david@gmail.com,Boston,MA,5/12/2023,Keyboard,Electronics,45,90
+O006,C006,P006,1,1/15/2024,SOPHIA WILSON,sophia@gmail.com,Miami,FL,6/10/2023,Desk,Furniture,300,300
+O007,C007,P008,2,1/16/2024,JAMES MOORE,james@gmail.com,Denver,CO,7/22/2023,Printer,Electronics,180,360
+O008,C008,P007,1,1/17/2024,OLIVIA TAYLOR,olivia@gmail.com,Atlanta,GA,8/15/2023,Headphones,Electronics,120,120
+O009,C009,P009,10,1/18/2024,LIAM ANDERSON,liam@gmail.com,Phoenix,AZ,9/1/2023,Notebook,Stationery,5,50
+O010,C010,P010,20,1/19/2024,AVA THOMAS,ava@gmail.com,Detroit,MI,9/12/2023,Pen,Stationery,2,40
+O011,C011,P011,2,1/20/2024,NOAH JACKSON,noah@gmail.com,Portland,OR,10/3/2023,Backpack,Accessories,60,120
+O012,C012,P012,1,1/21/2024,MIA WHITE,mia@gmail.com,Las Vegas,NV,10/18/2023,Tablet,Electronics,500,500
+O013,C013,P013,1,1/22/2024,ETHAN HARRIS,ethan@gmail.com,Austin,TX,11/9/2023,Phone,Electronics,900,900
+O014,C014,P014,1,1/23/2024,CHARLOTTE MARTIN,charlotte@gmail.com,Nashville,TN,12/2/2023,Camera,Electronics,650,650
+O015,C015,P015,2,1/24/2024,LUCAS THOMPSON,lucas@gmail.com,San Diego,CA,1/5/2024,Speaker,Electronics,130,260

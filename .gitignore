@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
+
+# Logs
+logs/
+*.log
+
+# Reports
+reports/
+
+# Great Expectations Generated Files
+gx/uncommitted/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db

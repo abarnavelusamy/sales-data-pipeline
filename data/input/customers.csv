@@ -1,0 +1,16 @@
+CustomerID,CustomerName,Email,City,State,JoinDate
+C001,John Smith,john@gmail.com,New York,NY,1/10/2023
+C002,Alice Johnson,alice@gmail.com,Chicago,IL,2/15/2023
+C003,Bob Williams,bob@gmail.com,Dallas,TX,3/20/2023
+C004,Emma Brown,emma@gmail.com,Seattle,WA,4/18/2023
+C005,David Miller,david@gmail.com,Boston,MA,5/12/2023
+C006,Sophia Wilson,sophia@gmail.com,Miami,FL,6/10/2023
+C007,James Moore,james@gmail.com,Denver,CO,7/22/2023
+C008,Olivia Taylor,olivia@gmail.com,Atlanta,GA,8/15/2023
+C009,Liam Anderson,liam@gmail.com,Phoenix,AZ,9/1/2023
+C010,Ava Thomas,ava@gmail.com,Detroit,MI,9/12/2023
+C011,Noah Jackson,noah@gmail.com,Portland,OR,10/3/2023
+C012,Mia White,mia@gmail.com,Las Vegas,NV,10/18/2023
+C013,Ethan Harris,ethan@gmail.com,Austin,TX,11/9/2023
+C014,Charlotte Martin,charlotte@gmail.com,Nashville,TN,12/2/2023
+C015,Lucas Thompson,lucas@gmail.com,San Diego,CA,1/5/2024

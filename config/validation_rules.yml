@@ -1,0 +1,62 @@
+customers:
+
+  - expectation: not_null
+    column: CustomerID
+
+  - expectation: unique
+    column: CustomerID
+
+  - expectation: not_null
+    column: CustomerName
+
+  - expectation: not_null
+    column: Email
+
+  - expectation: regex
+    column: Email
+    pattern: "^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}$"
+
+  - expectation: not_null
+    column: JoinDate
+
+
+products:
+
+  - expectation: not_null
+    column: ProductID
+
+  - expectation: unique
+    column: ProductID
+
+  - expectation: not_null
+    column: ProductName
+
+  - expectation: not_null
+    column: Category
+
+  - expectation: greater_than
+    column: Price
+    value: 0
+
+
+orders:
+
+  - expectation: unique
+    column: OrderID
+
+  - expectation: not_null
+    column: CustomerID
+
+  - expectation: not_null
+    column: ProductID
+
+  - expectation: greater_than
+    column: Quantity
+    value: 0
+
+
+processed_orders:
+
+  - expectation: greater_than
+    column: TotalAmount
+    value: 0
