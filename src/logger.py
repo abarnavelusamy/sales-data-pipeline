@@ -1,8 +1,11 @@
+import os
 import logging
-from config import LOG_FILE
+
+# Create logs directory if it doesn't exist
+os.makedirs("logs", exist_ok=True)
 
 logging.basicConfig(
-    filename=LOG_FILE,
+    filename="logs/pipeline.log",
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s"
 )
